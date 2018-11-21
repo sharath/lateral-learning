@@ -1,0 +1,15 @@
+{'seed': 0, 'dt': 1.0, 'runtime': 250, 'scale1': 6.452, 'scale2': 71.155, 'rand_init': 0, 'stdp': 0, 'nu_pre': 1e-07, 'nu_post': 1e-05, 'episodes': 200, 'epsilon': 0, 'log': 1, 'net_freeze_interval': 5, 'device_id': 0}
+Saved Start Network to 1542826692/000_dqsnn.net.
+Episode: 1, Step 31, Reward 1, Total Reward 1.0
+Episode: 1, Step 62, Reward 1, Total Reward 2.0
+Episode: 1, Step 101, Reward 1, Total Reward 3.0
+Episode: 1, Step 136, Reward 1, Total Reward 4.0
+Episode: 1, Step 160, Reward 1, Total Reward 5.0
+Episode: 1, Step 208, Reward 1, Total Reward 6.0
+Episode: 1, Step 240, Reward 1, Total Reward 7.0
+Episode: 1, Step 271, Reward 1, Total Reward 8.0
+Episode: 1, Step 326, Reward 1, Total Reward 9.0
+Episode: 1, Step 382, Reward 1, Total Reward 10.0
+Episode: 1, Step 437, Reward 1, Total Reward 11.0
+Step 459 (0) @ Episode 1/200
+Episode Reward 11.0

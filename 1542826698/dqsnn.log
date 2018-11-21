@@ -1,0 +1,18 @@
+{'seed': 0, 'dt': 1.0, 'runtime': 250, 'scale1': 6.452, 'scale2': 71.155, 'rand_init': 1, 'stdp': 2, 'nu_pre': 1e-07, 'nu_post': 1e-05, 'episodes': 200, 'epsilon': 0, 'log': 1, 'net_freeze_interval': 5, 'device_id': 1}
+Saved Start Network to 1542826698/000_dqsnn.net.
+Episode: 1, Step 31, Reward 1, Total Reward 1.0
+Sum of weights in Lateral Connection 5010.1
+Episode: 1, Step 62, Reward 1, Total Reward 2.0
+Sum of weights in Lateral Connection 5027.3
+Episode: 1, Step 95, Reward 1, Total Reward 3.0
+Sum of weights in Lateral Connection 5061.3
+Episode: 1, Step 149, Reward 1, Total Reward 4.0
+Sum of weights in Lateral Connection 5080.8
+Episode: 1, Step 204, Reward 1, Total Reward 5.0
+Sum of weights in Lateral Connection 5097.0
+Episode: 1, Step 260, Reward 1, Total Reward 6.0
+Sum of weights in Lateral Connection 5121.4
+Episode: 1, Step 318, Reward 1, Total Reward 7.0
+Sum of weights in Lateral Connection 5151.3
+Step 330 (0) @ Episode 1/200
+Episode Reward 7.0
